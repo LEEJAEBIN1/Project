@@ -1,0 +1,8 @@
+http://blog.naver.com/PostView.nhn?blogId=pcw0615&logNo=10100392134
+
+
+
+compass에서 업로드하고 아두이노 몇바퀴 돌려줘야함 360도로 천천히.
+
+degree에서는 처음 출력되는것이 지면에 닿았는지 확인하는 가속도x값이고 두번째 출력되는것이 
+걸음걸이 회전 판단하는 자이로z값임.
